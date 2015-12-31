@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "628"
+            endingLineNumber = "628"
+            landmarkName = "-ASIHttpRequestSuceedForHeadTeachers:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "780"
+            endingLineNumber = "780"
+            landmarkName = "-ASIHttpRequestSuceedForHeadTeachersThree:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;/ChangingDetail.m"
+            timestampString = "432650977.917379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-ASIHttpRequestSuceedForDetail:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "548"
+            endingLineNumber = "548"
+            landmarkName = "-ASIHttpRequestSuceedForClassmatesSeven:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x5730;&#x56fe;/Map_PersonInfo.m"
+            timestampString = "432654575.190604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "-ASIHttpRequestSuceedForInfoCenterStudent:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/RegisterVieww.m"
+            timestampString = "432654575.190604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "-ASIHttpRequestSuceedForFirst:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/RegisterVieww.m"
+            timestampString = "432654575.190604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "615"
+            endingLineNumber = "615"
+            landmarkName = "-NianjiBtn:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/FastCheck_ViewController.m"
+            timestampString = "434265341.943007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "-ASIHttpRequestSuceedForLeaderTwice:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/FastCheck_ViewController.m"
+            timestampString = "434265738.362715"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "527"
+            endingLineNumber = "527"
+            landmarkName = "-searchBar:textDidChange:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/FastCheck_Detail.m"
+            timestampString = "433926332.430205"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
+            landmarkName = "-searchBar:textDidChange:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/FastCheck_Detail.m"
+            timestampString = "433926332.430205"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "317"
+            endingLineNumber = "317"
+            landmarkName = "-didReceiveMemoryWarning"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/PullRefreshTableViewController.m"
+            timestampString = "433122845.961728"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "-scrollViewDidEndDragging:willDecelerate:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x5730;&#x56fe;/ChoiceView_map.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1210"
+            endingLineNumber = "1210"
+            landmarkName = "-ASIHttpRequestSuceedForClassmatesSeven:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x5730;&#x56fe;/ChoiceView_map.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1187"
+            endingLineNumber = "1187"
+            landmarkName = "-SubmitDataToServer"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x5730;&#x56fe;/ChoiceView_map.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1147"
+            endingLineNumber = "1147"
+            landmarkName = "-BtnClickForClassChoice:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/AssistantView.m"
+            timestampString = "432910771.155187"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "-getNetworkRequestSecond"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/AssistantView.m"
+            timestampString = "432910774.483363"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "-getNetworkRequestMain"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;/ChangingDetail.m"
+            timestampString = "432910777.027593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "-SubmitRequestForChanging"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x5730;&#x56fe;/ChoiceView_map.m"
+            timestampString = "432997963.461083"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "-GetRequestForProfessions"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x5730;&#x56fe;/ChoiceView_map.m"
+            timestampString = "432997963.461083"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "328"
+            endingLineNumber = "328"
+            landmarkName = "-GetRequestForClasses"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "432910804.004022"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "-GetRequestForHeadteachersFromOneCollege"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "-GetRequestForProfessions"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "423"
+            endingLineNumber = "423"
+            landmarkName = "-GetRequestForClasses"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "513"
+            endingLineNumber = "513"
+            landmarkName = "-SubmitDataToServer"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x7d27;&#x6025;&#x6a21;&#x5757;/EmergencyView.m"
+            timestampString = "434121686.46269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "748"
+            endingLineNumber = "748"
+            landmarkName = "-getTheOnlyClassByGradeid"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/FastCheck_ViewController.m"
+            timestampString = "432910852.486591"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "-GetRequestTwiceByLeaders"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x8003;&#x52e4;&#x6a21;&#x5757;/NamesList.m"
+            timestampString = "434274816.41019"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2939"
+            endingLineNumber = "2939"
+            landmarkName = "-RequestForCollegeAndGrades"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;/Person_INFO_Center.m"
+            timestampString = "434375978.387194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "454"
+            endingLineNumber = "454"
+            landmarkName = "-ASIHttpRequestSuceedForInfoCenterLeader:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;/Person_INFO_Center.m"
+            timestampString = "434375978.387194"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "863"
+            endingLineNumber = "863"
+            landmarkName = "-actionSheet:clickedButtonAtIndex:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x5730;&#x56fe;/ChoiceView_map.m"
+            timestampString = "434262455.73582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1195"
+            endingLineNumber = "1195"
+            landmarkName = "-SubmitDataToServer"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6cb3;&#x5317;&#x5317;&#x65b9;&#x5b66;&#x9662;&#x9884;&#x8b66;&#x7cfb;&#x7edf;/&#x8003;&#x52e4;&#x6a21;&#x5757;/NamesList.m"
+            timestampString = "434273785.435883"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "581"
+            endingLineNumber = "581"
+            landmarkName = "-ASIHttpRequestSuceedForCheck:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
